@@ -16,7 +16,7 @@ var (
 	// Could be modified in tests.
 	maxGUBatchSize              = 500
 	maxClientObjectQuota        = 60000
-	maxClientHistoryObjectQuota = 26000
+	maxClientHistoryObjectQuota = 25
 )
 
 const (
